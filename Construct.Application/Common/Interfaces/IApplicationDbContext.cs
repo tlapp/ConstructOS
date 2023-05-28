@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace Construct.Application.Common.Interfaces;
 
-namespace Construct.Application.Common.Interfaces
+public interface IApplicationDbContext
 {
-    internal interface IApplicationDbContext
-    {
-    }
+    Task<int> SaveChangesAsync(CancellationToken cancellationToken);
 }

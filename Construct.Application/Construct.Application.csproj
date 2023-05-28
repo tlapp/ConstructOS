@@ -16,4 +16,8 @@
     <ProjectReference Include="..\Construct.Domain\Construct.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Common\Behaviours\" />
+  </ItemGroup>
+
 </Project>
