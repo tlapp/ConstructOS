@@ -44,7 +44,6 @@
   <ItemGroup>
     <ProjectReference Include="..\Construct.Application\Construct.Application.csproj" />
     <ProjectReference Include="..\Construct.Infastructure.Files\Construct.Infastructure.Files.csproj" />
-    <ProjectReference Include="..\Construct.Infastructure.Identity\Construct.Infastructure.Identity.csproj" />
     <ProjectReference Include="..\Construct.Infastructure.Mail\Construct.Infastructure.Mail.csproj" />
     <ProjectReference Include="..\Construct.Infastructure.Persistence\Construct.Infastructure.Persistence.csproj" />
     <ProjectReference Include="..\Construct.Infrastructure\Construct.Infrastructure.csproj" />

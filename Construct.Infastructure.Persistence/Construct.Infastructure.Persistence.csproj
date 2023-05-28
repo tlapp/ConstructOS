@@ -17,4 +17,8 @@
     <ProjectReference Include="..\Construct.Application\Construct.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Configurations\" />
+  </ItemGroup>
+
 </Project>
